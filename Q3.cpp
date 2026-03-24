@@ -44,3 +44,9 @@ int main() {
     return 0;
 }
 
+/*Nhap kich thuoc ma tran (m n): 8 8
+Nhap vi tri ma (i j): 1 1
+ma tran: 8 x 8
+vi tri hien tai: (1, 1)
+vi tri di den duoc: vi tri di den duoc: (3, 2), (3, 0), (2, 3), (0, 3)
+Tong so nuoc di: 4 */
